@@ -1,0 +1,12 @@
+npm install -g n
+
+n install lts
+
+npm create vite@latest
+
+npm i
+
+npm run dev
+
+remover arquivos css e svg
+remover html do app.tsx
